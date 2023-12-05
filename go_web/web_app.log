@@ -1,0 +1,14 @@
+{"level":"debug","ts":"2023-12-05T01:03:43.648+0800","caller":"go_web/main.go:32","msg":"logger Init success "}
+{"level":"debug","ts":"2023-12-05T01:06:18.184+0800","caller":"go_web/main.go:32","msg":"logger Init success "}
+{"level":"debug","ts":"2023-12-05T01:06:26.778+0800","caller":"go_web/main.go:32","msg":"logger Init success "}
+{"level":"info","ts":"2023-12-05T01:06:39.554+0800","caller":"logger/main.go:80","msg":"/","status":200,"method":"GET","path":"/","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:120.0) Gecko/20100101 Firefox/120.0","errors":"","cost":0.000017625}
+{"level":"info","ts":"2023-12-05T01:06:44.847+0800","caller":"logger/main.go:80","msg":"/s","status":404,"method":"GET","path":"/s","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:120.0) Gecko/20100101 Firefox/120.0","errors":"","cost":0.000000792}
+{"level":"info","ts":"2023-12-05T01:06:47.570+0800","caller":"logger/main.go:80","msg":"/","status":200,"method":"GET","path":"/","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:120.0) Gecko/20100101 Firefox/120.0","errors":"","cost":0.000009667}
+{"level":"info","ts":"2023-12-05T01:06:53.741+0800","caller":"go_web/main.go:68","msg":"Shutdown Server ..."}
+{"level":"info","ts":"2023-12-05T01:06:53.741+0800","caller":"go_web/main.go:77","msg":"Server exiting"}
+{"level":"debug","ts":"2023-12-05T01:07:13.288+0800","caller":"go_web/main.go:32","msg":"logger Init success "}
+{"level":"debug","ts":"2023-12-05T13:50:21.895+0800","caller":"go_web/main.go:32","msg":"logger Init success "}
+{"level":"debug","ts":"2023-12-05T13:51:59.435+0800","caller":"go_web/main.go:32","msg":"logger Init success "}
+{"level":"info","ts":"2023-12-05T13:52:08.816+0800","caller":"logger/logger.go:80","msg":"/","status":200,"method":"GET","path":"/","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:120.0) Gecko/20100101 Firefox/120.0","errors":"","cost":0.000029166}
+{"level":"info","ts":"2023-12-05T13:52:15.090+0800","caller":"go_web/main.go:68","msg":"Shutdown Server ..."}
+{"level":"info","ts":"2023-12-05T13:52:15.092+0800","caller":"go_web/main.go:77","msg":"Server exiting"}
